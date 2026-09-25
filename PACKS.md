@@ -200,3 +200,11 @@ gather-tief-elma-1.mp4
 gather-tief-nora-1.mp4
 gather-wiese-elma-2.mp4
 
+
+## l ergänzt
+enemy-slime enemy-moth enemy-nixe enemy-naga enemy-harpy enemy-bandit enemy-vine enemy-wolf enemy-fox
+
+## m (3 Dateien)
+nora.mp4
+elma.mp4
+enemy-cat.mp4
